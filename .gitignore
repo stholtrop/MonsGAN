@@ -1,3 +1,6 @@
 data/*
 npys/*
 .idea/*
+dataset/*
+*.swp
+*__pycache__*
